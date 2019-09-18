@@ -1,4 +1,4 @@
-# Lab08LINQinManhattan
+# LINQ in Manhattan Project
 code401 started Jan 17, 2019
 
 ## Purpose:
