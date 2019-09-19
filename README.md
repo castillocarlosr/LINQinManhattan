@@ -1,14 +1,14 @@
 # LINQ in Manhattan Project
-code401 started Jan 17, 2019
+Code started Jan 17, 2019
 
 ## Purpose:
-This is a console run app to take in a JSON file and convert it to a readable format for C# for Code401 C# .NET class.
+This is a console run app to take in a JSON file and convert it to a readable format for C#.
 
 ##Summary
 This is a console run app the executes when called.  What this app does is take in a JSON example file provided in the folder and displays the neighboorhoodd of Manhattan in the console.
 
 ### How to run the program:
-This program requires visual studio 2017.
+This program requires visual studio 2017.  Have not tried using visual studio 2019 as it did not come out yet at the time when I wrote this.
 Run the program to start the console application.
 This will be under "Program.cs".
 
@@ -32,5 +32,5 @@ Below are screen shots of what this should look like.
 ![](assets/CaptureFour.PNG?raw=true)
 ![](assets/CaptureFive.PNG?raw=true)
 
-Lab started on January 17, 2019 by Carlos R. Castillo
+Code started on January 17, 2019 by Carlos R. Castillo
 Thanks for stopping by and stay classy Seattle.
