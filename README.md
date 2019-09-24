@@ -3,7 +3,7 @@
 ## Purpose:
 This is a console run app to take in a JSON file and convert it to a readable format for C#.
 
-##Summary
+## Summary
 This is a console run app the executes when called.  What this app does is take in a JSON example file provided in the folder and displays the neighboorhoodd of Manhattan in the console.
 
 ### How to run the program:
