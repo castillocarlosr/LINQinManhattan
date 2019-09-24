@@ -1,5 +1,4 @@
 # LINQ in Manhattan Project
-Code started Jan 17, 2019
 
 ## Purpose:
 This is a console run app to take in a JSON file and convert it to a readable format for C#.
@@ -9,10 +8,11 @@ This is a console run app the executes when called.  What this app does is take 
 
 ### How to run the program:
 This program requires visual studio 2017.  Have not tried using visual studio 2019 as it did not come out yet at the time when I wrote this.
-Run the program to start the console application.
+<p>Clone the project to your environment</p>
+<p>Run the program to start the console application.</p>
 This will be under "Program.cs".
 
-You may look at the source code to ensure nothing evil is in there.
+You may look at the source code for a better understanding.
 
 * The console will welcome you to New York City.
 * The console will output all the neighborhoods from the JSON file using Lambda Expressions.
@@ -32,5 +32,7 @@ Below are screen shots of what this should look like.
 ![](assets/CaptureFour.PNG?raw=true)
 ![](assets/CaptureFive.PNG?raw=true)
 
-Code started on January 17, 2019 by Carlos R. Castillo
+# Authors
+* [Carlos Castillo](https://github.com/castillocarlosr)
+<p>Code started on January 17, 2019</p>
 Thanks for stopping by and stay classy Seattle.
